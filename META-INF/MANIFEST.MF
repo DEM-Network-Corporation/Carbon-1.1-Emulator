@@ -1,0 +1,3 @@
+Manifest-Version: 1.0.0
+Built-By: DEMNetwork
+Main-Class: io.github.demnetwork.carbon11.Main
